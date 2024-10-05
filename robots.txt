@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://weiansec.github.io/sitemap.html.gz
+Sitemap: https://weiansec.github.io/app/sitemap.html.gz
+Sitemap: https://weiansec.github.io/assets/sitemap.html.gz
+Sitemap: https://weiansec.github.io/css/sitemap.html.gz
+Sitemap: https://weiansec.github.io/data/sitemap.html.gz
+Sitemap: https://weiansec.github.io/includes/sitemap.html.gz
+Sitemap: https://weiansec.github.io/item/sitemap.html.gz
+Sitemap: https://weiansec.github.io/src/sitemap.html.gz
